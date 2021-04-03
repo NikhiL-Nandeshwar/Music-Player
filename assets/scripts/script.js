@@ -15,10 +15,10 @@ let songIndex = 0;
 const songs = [
   {
     title: 'Namo Namo',
-    artist: 'Amit Trivedi',
+    artist: 'Amit Trivedi ',
     coverPath: 'assets/images/namo.jpg',
     discPath: 'assets/music/Namo Namo.mp3',
-    duration: '5:21',
+    duration: '5:22',
   },
   {
     title: 'Mere Rashke',

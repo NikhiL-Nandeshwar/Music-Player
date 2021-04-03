@@ -18,7 +18,7 @@ const songs = [
     artist: 'Amit Trivedi ',
     coverPath: 'assets/images/namo.jpg',
     discPath: 'assets/music/Namo Namo.mp3',
-    duration: '5:22',
+    duration: '5:21',
   },
   {
     title: 'Mere Rashke',
